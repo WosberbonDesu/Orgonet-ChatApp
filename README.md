@@ -4,6 +4,8 @@
 **download the file named orgone tv2 final to run the code Activate the button named email and password in the auth module for firebase
 then activate the 30 day thing for the trial version in your firebase account for firestore  after that add your firebase file to your project
 it remains only to replace the contents of the lib file with my file
+Do not forget to change and replace your google key address
+
 
 
 
